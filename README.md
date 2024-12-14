@@ -43,7 +43,7 @@ TaskManagerService is a Java-based task management service created using **NetBe
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/TaskManagerService.git
+   git clone https://github.com/rzig1/TaskManagerService.git
 2. You need to open the project in Netbeans.
 3.  Deploy the project
 
